@@ -1,7 +1,7 @@
 # Contact
-### Call or text at
+## Call or text at
 **808-895-9557**
-### E-mail at
+## E-mail at
 **JML.Service@Proton.me**
 
 # FAQ
