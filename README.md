@@ -1,4 +1,3 @@
-![JL Cube Logo](/assets/images/sig.png)
 # Jesse's General Service
 A service provided by Jesse L. to help you in any labor intensive job!
 
