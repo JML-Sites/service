@@ -1,6 +1,4 @@
-layout: jekyll-theme-cayman
-title: "Contact"
-permalink: /contact
+# Contact
 ### Phone
 **808-895-9557**
 ### E-mail
