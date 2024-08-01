@@ -21,6 +21,6 @@ A service provided by Jesse L. made to help you in any labor intensive job!
  - Housesitting
  - Computer or technical problems
 
->If your problem isn't listed above, feel free to contact!
+>If your problem isn't listed above, still feel free to contact!
 
 
