@@ -1,7 +1,7 @@
-### Jesse's General Service
+# Jesse's General Service
 A service provided by Jesse L. made to help you in any labor intensive job!
 
-# Serving the Hawaii-Hilo area,
+### Serving the Hawaii-Hilo area,
  Jesse is willing to help with most jobs, including:
  - Gardening
  - Landscaping
@@ -16,7 +16,7 @@ A service provided by Jesse L. made to help you in any labor intensive job!
  - Exavation
  - Moving or carrying heavy objects
 
-# But wait, there's more!
+### But wait, there's more!
  - Petsitting
  - Housesitting
  - Computer or technical problems
