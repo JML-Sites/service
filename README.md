@@ -1,5 +1,4 @@
-# Jesse's General Service
-A service provided by Jesse L. to help you in any labor intensive job!
+**A service provided by Jesse L. to help you in any labor intensive job!**
 
 ## Located in the Hawaii-Pohoa area,
  **Jesse can help with just about everything, including:**
