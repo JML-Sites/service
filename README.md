@@ -2,7 +2,7 @@
 A service provided by Jesse L. made to help you in any labor intensive job!
 
 ### Serving the Hawaii-Hilo area,
- Jesse is willing to help with most jobs, including:
+ Jesse can help with most jobs, including:
  - Gardening
  - Landscaping
  - Lawn Care
