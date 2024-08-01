@@ -30,6 +30,13 @@ What hours are you willing to work?
 How should I pay you?
 > I strongly perfer cash, however I can take checks in dire circumstances.
 
+Would you travel to Kona or Waiamea for my job?
+> I can, you'll have to pay for the gas, however.
+> I work in Keaua, Pahoa, and Hilo with no extra cost.
+
+Would you travel to another island for my job?
+> Probabaly not.
+
 How long will it take for me to get a reply?
 > Usually no longer than three days.
 
