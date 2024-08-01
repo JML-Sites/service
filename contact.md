@@ -28,7 +28,7 @@ How should I pay you?
 > I strongly perfer cash, however I can take checks in dire circumstances.
 
 Who made this awesome site?
-> Me, using some awesome templates from Github Pages.
+> I did! Cool, isn't it?
 
 
 
