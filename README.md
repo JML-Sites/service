@@ -1,8 +1,8 @@
 # Jesse's General Service
 A service provided by Jesse L. made to help you in any labor intensive job!
 
-### Serving the Hawaii-Hilo area,
- Jesse can help with most jobs, including:
+### Located in the Hawaii-Pohoa area,
+ **Jesse can help with just about everything, including:**
  - Gardening
  - Landscaping
  - Lawn Care
@@ -13,13 +13,14 @@ A service provided by Jesse L. made to help you in any labor intensive job!
   >Note: Willing to help with construction,
   >not planning or leading the construction
  - Plumbing
- - Exavation
+ - Excavation
  - Moving or carrying heavy objects
 
 ### But wait, there's more!
  - Petsitting
  - Housesitting
  - Computer or technical problems
- - If your job isn't listed above, still feel free to contact below!
 
-## [Contacts](https://jml-sites.github.io/service/contact)
+# If your job isn't listed above, still feel free to contact below!
+
+## You can find my contacts right [here](https://jml-sites.github.io/service/contact)!
