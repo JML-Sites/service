@@ -1,20 +1,21 @@
 **A service provided by Jesse L. to help you in any labor intensive job!**
 
-## Located in the Hawaii-Pohoa area,
+## Located in the Hawaii-Pahoa area,
  **hardworking Jesse can help with just about everything, including:**
  - Gardening
  - Landscaping
  - Lawn Care
+ - Excavation
  - Jungle Removal
+ - Plant & tree nursery work
  - Pressure Washing
  - Painting
  - Construction or remodeling
   >Note: Willing to *help* with construction,
   >not planning or leading the construction
  - Plumbing
- - Excavation
  - Moving or carrying heavy objects
- - Plant & tree nursery work
+
 
 ## But wait, there's more!
  **Jesse can also:**
