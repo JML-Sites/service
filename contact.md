@@ -4,7 +4,7 @@
 ### E-mail at
 **JML.Service@Proton.me**
 
-### FAQ
+# FAQ
 How long will it take for me to get a reply?
 > Usually no longer than three days. If any longer, an automated reply will let you know if I am on a break or vacation.
 
