@@ -21,3 +21,5 @@ How should I pay you?
 
 Who made this awesome site?
 > Me, using some awesome templates from Github Pages.
+
+Navigate back to [Main Site](https://jml-sites.github.io/service/)?
