@@ -22,6 +22,7 @@ Could you work for a lower rate?
 > - **Diesel Engine Mechancics**, topics like diesel maintence and repair
 > - **Goat Husbundry**, taking care of goats, such as hoof clipping and milking
 > - **Structual Framing**, designing and building structally sound buildings
+> 
 > I am also offering lower rates to the elderly.
 
 What hours are you willing to work?
