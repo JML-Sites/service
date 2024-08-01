@@ -23,5 +23,4 @@ A service provided by Jesse L. made to help you in any labor intensive job!
 
 >If your problem isn't listed above, still feel free to contact!
 
-### Contact
-[Contacts](https://jml-sites.github.io/service/contact)
+**[Contacts](https://jml-sites.github.io/service/contact)**
