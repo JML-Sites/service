@@ -22,7 +22,7 @@ What is your hourly rate?
 
 What hours are you willing to work?
 > I am willing to work a portion of time in between 8:00 AM to 6:00PM, Monday through Saturday.
-> Note: I am seventeen and in high school, therefore I will not be able to work all day since I need to complete my school work for the day.
+> I am seventeen and in high school, therefore I will not be able to work all day since I need to complete my school work for the day.
 
 How should I pay you?
 > I strongly perfer cash, however I can take checks in dire circumstances.
