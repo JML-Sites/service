@@ -9,8 +9,8 @@ Why should I hire you?
 > Because I have a lot of experience in many things, and I am willing to learn new things!
  I have previous experience in...
   - **Animal Care and Handeling** At the [Lowe Volk Nature Center](https://www.crawfordparkdistrict.org/junior-naturalist.html) in Ohio I was trained to handle reptiles, amphibians, opossums, and insects as a Junior Naturalist for public presentation, so you could say I know a thing or two about taking care of animals.
-  - **Plumbing** I have plumbed two entire existing houses with fresh PEX pipe and have had no leaks so far!
-  - **Construction** I have helped several people with minor projects such as lean-tos to building a brand new two-story shed and greenhouse!
+  - **Plumbing** I have plumbed two entire existing houses with in PEX-B pipe and have had no leaks so far!
+  - **Construction** I have helped several people with many projects from lean-tos to building a brand new two-story shed and greenhouse!
   - **Lawn Care** I have operated many lawn mowers for many years and have much experience with electric string trimmers and 50cc bladed jungle shredders!
 
 What is your hourly rate?
