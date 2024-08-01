@@ -14,14 +14,15 @@ Why should I hire you?
   - **Lawn Care** I have operated many lawn mowers for many years and have much experience with electric string trimmers and 50cc bladed jungle shredders!
 
 What is your hourly rate?
-> Depends on the difficulty/intensity of the job. For example, if it is a complex construction job involving lots of heavy lifting, the rate would be higher than fixing computer problems.
+> Depends on the difficulty/intensity of the job. For example, if it is a complex construction job involving lots of heavy lifting, the rate would be higher than a job fixing minor computer problems.
 
 Could you work for a lower rate?
-> Sure! I am offering a lower rate to the elderly and the skilled who are willing to educate me with the following skills:
+> Sure! I am offering a lower rate the skilled who are willing to educate me with the following skills:
 > - **Metal Working**, welding, forging, or casting
 > - **Diesel Engine Mechancics**, topics like diesel maintence and repair
 > - **Goat Husbundry**, taking care of goats, such as hoof clipping and milking
 > - **Structual Framing**, designing and building structally sound buildings
+> I am also offering lower rates to the elderly.
 
 What hours are you willing to work?
 > I am willing to work a portion of time in between 8:00 AM to 6:00PM, Monday through Saturday.
@@ -31,7 +32,7 @@ How should I pay you?
 > I strongly perfer cash, however I can take checks in dire circumstances.
 
 Would you travel to Kona or Waiamea for my job?
-> I can, you'll have to pay for the gas, however.
+> I can, however you'll have to pay for the gas.
 > I work in Keaua, Pahoa, and Hilo with no extra cost.
 
 Would you travel to another island for my job?
