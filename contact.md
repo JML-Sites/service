@@ -10,7 +10,7 @@
   > - **Animal Care and Handling** At the [Lowe Volk Nature Center](https://www.crawfordparkdistrict.org/junior-naturalist.html) in Ohio I was trained to handle reptiles, amphibians, opossums, and insects as a Junior Naturalist for public presentation, so you could say I know a thing or two about taking care of animals.
   > - **Plumbing** I have plumbed two entire existing houses with in PEX-B pipe and have had no leaks so far!
   > - **Construction** I have helped several people with many projects from lean-tos to building a brand new two-story shed and a greenhouse.
-  > - **Lawn Care** I have operated many lawn mowers for many years and have much experience with electric string trimmers and powerful bladed weedwackers.
+  > - **Lawn Care** I have operated multiple lawn mowers for many years and have much experience with several kinds of weedtrimmers, from electric string trimmers to powerful bladed weedwackers.
   > - **Click [this](https://jml-sites.github.io/service/photos) to see previous jobs that I worked on.**
 
 **What is your hourly rate?**
@@ -24,7 +24,6 @@
 > - **Structural Framing**, designing & building buildings meant to last
 > - **Solar/Electrical Installations**
 > - **Advanced Photography**
-> 
 > I am also offering lower rates to the elderly.
 
 **What hours are you willing to work?**
@@ -49,8 +48,5 @@
 
 **I can't find an answer to my question.**
 > Contact me! I can answer any question you have about my service.
-
-
-
 
 **Navigate back to [Main Site](https://jml-sites.github.io/service/)?**
