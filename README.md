@@ -4,17 +4,17 @@
  **hardworking Jesse can help with just about everything, including:**
  - Gardening
  - Landscaping
- - Lawn Care
+ - Lawn care
  - Excavation
  - Jungle Removal
  - Plant & tree nursery work
- - Pressure Washing
+ - Pressure washing
  - Painting
  - Construction or remodeling
   >Note: Willing to *help* with construction,
-  >not planning or leading the construction
+  >not planning or leading construction projects
  - Plumbing
- - Moving or carrying heavy objects
+ - Moving and carrying heavy objects
 
 
 ## But wait, there's more!
@@ -22,7 +22,7 @@
  - Petsit
  - Housesit
  - Do photography
- - Fix most computer or technical problems
+ - Fix most computer and technical problems
  - Set up a simple website, like the one you're reading!
 
 ## If your job isn't listed above, still feel free to contact below!
