@@ -26,6 +26,7 @@
 > - **Structural Framing**, designing & building buildings meant to last
 > - **Solar/Electrical Installations**
 > - **Advanced Photography**
+> 
 > I am also offering lower rates to the elderly.
 
 **What hours are you willing to work?**
