@@ -11,7 +11,7 @@
   > - **Plumbing** I have plumbed two entire existing houses with in PEX-B pipe and have had no leaks so far!
   > - **Construction** I have helped several people with many projects from lean-tos to building a brand new two-story shed and a greenhouse.
   > - **Lawn Care** I have operated many lawn mowers for many years and have much experience with electric string trimmers and powerful bladed weedwackers.
-  > - **Click [this]() to see previous jobs that I worked on.**
+  > - **Click [this](https://jml-sites.github.io/service/photos) to see previous jobs that I worked on.**
 
 **What is your hourly rate?**
 > It depends on the difficulty/intensity of the job. For example, if it is a complex construction job involving lots of heavy lifting, the rate would be higher than a job fixing minor computer problems.
