@@ -1,1 +1,2 @@
-working on it
+# Photos
+![Selfie of Jesse](assets/images/selfie.jpg)
