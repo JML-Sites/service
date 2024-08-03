@@ -1,4 +1,4 @@
-**A service provided by Jesse L. to help you in any labor intensive job!**
+**A service provided by Jesse L. to help you with your job!**
 
 ## Located in the Hawaii-Pahoa area,
  **hardworking Jesse can help with just about everything, including:**
@@ -19,8 +19,8 @@
 
 ## But wait, there's more!
  **Jesse can also:**
- - Petsit
- - Housesit
+ - Pet sit
+ - House sit
  - Do photography
  - Fix most computer and technical problems
  - Set up a simple website, like the one you're reading!
