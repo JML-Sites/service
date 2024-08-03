@@ -31,7 +31,7 @@
 
 **What hours are you willing to work?**
 > I am willing to work a portion of time in between 8:00 AM to 6:00PM, Monday through Saturday.
-> I am very flexible, however I am seventeen and homeschooled therefore I must set some time each day for my education.
+> I am very flexible, however I must set some time aside each day for my education.
 
 **How should I pay you?**
 > I strongly perfer cash, however I can take checks in dire circumstances.
