@@ -13,7 +13,7 @@
   > - **Plumbing** I have plumbed two entire existing houses with PEX-B pipe and have had no leaks so far!
   > - **Construction** I have helped several people with many projects from lean-tos to building a brand new two-story shed and a greenhouse.
   > - **Lawn Care** I have operated multiple lawn mowers for many years and have much experience with several kinds of weedtrimmers, from electric string trimmers to powerful bladed weedwackers.
-  > - **Click [this](https://jml-sites.github.io/service/photos) to see previous jobs that I worked on.**
+  > - **Click [here](https://jml-sites.github.io/service/photos) to see photos of previous jobs that I worked on.**
 
 **What is your hourly rate?**
 > It depends on the difficulty/intensity of the job. For example, if it is a complex construction job involving lots of heavy lifting, the rate would be higher than a job fixing minor computer problems.
@@ -39,9 +39,6 @@
 **Would you travel to Kona, Ocean View, or Waimea for my job?**
 > I can, however you'll have to pay for the gas.
 > I work in Keaau, Pahoa, and Hilo with no extra cost.
-
-**Would you travel to another island for my job?**
-> Probabaly not.
 
 **How long will it take for me to get a reply?**
 > Usually no longer than three days.
