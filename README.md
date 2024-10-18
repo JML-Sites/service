@@ -1,12 +1,12 @@
 **A service provided by Jesse L. to help you with your job!**
 
-## Located in the Hawaii-Pahoa area,
+## Located in the Ohio area,
  **hardworking Jesse can help with just about everything, including:**
  - Gardening
  - Landscaping
  - Lawn care
  - Excavation
- - Jungle Removal
+ - Baling
  - Plant & tree nursery work
  - Pressure washing
  - Painting
