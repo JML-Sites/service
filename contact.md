@@ -17,17 +17,17 @@
 
 **What is your hourly rate?**
 > It depends on the difficulty/intensity of the job. For example, if it is a complex construction job involving lots of heavy lifting, the rate would be higher than a job fixing minor computer problems.
-
-**Could you work for a lower rate?**
-> Sure! I am offering a lower rate to the skilled who are willing to educate me with the following skills:
-> - **Metal Working**, such as welding, forging, or casting
-> - **Diesel/Heavy Equipment** maintence and repair
-> - **Goat Husbundry**
-> - **Structural Framing**, designing & building buildings meant to last
-> - **Solar/Electrical Installations**
-> - **Advanced Photography**
-> 
-> I am also offering lower rates to the elderly.
+\
+\**Could you work for a lower rate?**
+\> Sure! I am offering a lower rate to the skilled who are willing to educate me with the following skills:
+\> - **Metal Working**, such as welding, forging, or casting
+\> - **Diesel/Heavy Equipment** maintence and repair
+\> - **Goat Husbundry**
+\> - **Structural Framing**, designing & building buildings meant to last
+\> - **Solar/Electrical Installations**
+\ - **Advanced Photography**
+\> 
+\> I am also offering lower rates to the elderly.
 
 **What hours are you willing to work?**
 > I am willing to work a portion of time in between 8:00 AM to 6:00PM, Monday through Saturday.
@@ -35,10 +35,6 @@
 
 **How should I pay you?**
 > I strongly perfer cash, however I can take checks in dire circumstances.
-
-**Would you travel to Kona, Ocean View, or Waimea for my job?**
-> I can, however you'll have to pay for the gas.
-> I work in Keaau, Pahoa, and Hilo with no extra cost.
 
 **How long will it take for me to get a reply?**
 > Usually no longer than three days.
