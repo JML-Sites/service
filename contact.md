@@ -6,17 +6,18 @@
 ## E-mail at
 >**[JML.Service@Proton.me](mailto:JML.Service@Proton.me)**
 
+## Facebook Page
+> **[Facebook](https://www.facebook.com/JMLGeneralService)**
+
 # FAQ
 **Why should I hire you?**
 > I have a lot of experience in many things and I am willing to learn new things! I have previous experience in...
-  > - **Animal Care and Handling** At the [Lowe Volk Nature Center](https://www.crawfordparkdistrict.org/junior-naturalist.html) in Ohio I was trained to handle reptiles, amphibians, opossums, and insects as a Junior Naturalist for public presentation, so you could say I know a thing or two about taking care of animals.
+  > - **Animal Care and Handling** At the [Lowe Volk Nature Center](https://www.crawfordparkdistrict.org/junior-naturalist.html) in Ohio I was trained to handle reptiles, amphibians, opossums, and insects as a Junior Naturalist for public presentation.
   > - **Plumbing** I have plumbed two entire existing houses with PEX-B pipe and have had no leaks so far!
   > - **Construction** I have helped several people with many projects from lean-tos to building a brand new two-story shed and a greenhouse.
   > - **Lawn Care** I have operated multiple lawn mowers for many years and have much experience with several kinds of weedtrimmers, from electric string trimmers to powerful bladed weedwackers.
-  > - **Click [here](https://www.facebook.com/JMLGeneralService) to visit my Facebook page and find reviews of my service**
-
-**What is your hourly rate?**
-> It depends on the difficulty/intensity of the job. For example, if it is a complex construction job involving lots of heavy lifting, the rate would be higher than a job fixing minor computer problems.
+  > - **Click [here](https://www.facebook.com/JMLGeneralService) to visit my Facebook page and find reviews of my service.**
+  > - **Go [here](https://jml-sites.github.io/service/about) to find a more detailed description of my experience.**
 
 **What hours are you willing to work?**
 > I am willing to work a portion of time in between 8:00 AM to 6:00PM, Monday through Saturday.
