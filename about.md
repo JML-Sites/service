@@ -1,4 +1,4 @@
-<!-- About me -->
+# About me
 
 I was born at a very young age in the middle of Ohio. I lived in a house just outside of a small town with my younger sister and was homeschooled by my mother and father.  My mother took me on walks in a nearby woods where I gained a deep appreciation of nature, and my father taught me how to properly operate and maintain the riding lawn mower. I was also taught the basics of money and capitalism, and my parents helped me start a lemonade stand at a nearby farmer's market.
 
