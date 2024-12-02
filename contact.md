@@ -1,13 +1,13 @@
-# Contact
+<!--# Contact-->
 
 ## Call or text at
->**808-895-9557**
+**808-895-9557**
 
 ## E-mail at
->**[JML.Service@Proton.me](mailto:JML.Service@Proton.me)**
+**[JML.Service@Proton.me](mailto:JML.Service@Proton.me)**
 
 ## Facebook Page
-> **[Facebook](https://www.facebook.com/JMLGeneralService)**
+**[Jesse's General Service Facebook Page](https://www.facebook.com/JMLGeneralService)**
 
 # FAQ
 **Why should I hire you?**
