@@ -1,4 +1,3 @@
-<!-- Jesse's General Services -->
 ## An experienced, hardworking young man here to help you in any labor intensive job!
 **He can do most tasks, including:**
  - Gardening
@@ -17,6 +16,6 @@
  - Spreading mulch or gravel
  - Moving and carrying heavy objects
 
-## Contact him today! [Contacts](https://jml-sites.github.io/service/contact)
+## Contact him today! [Contacts](https://jml-sites.github.io/main/contact)
 
-## Learn more about him: [About](https://jml-sites.github.io/service/about)
+## Learn more about him: [About](https://jml-sites.github.io/main/about)
