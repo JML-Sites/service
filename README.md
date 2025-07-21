@@ -1,10 +1,13 @@
 <!-- Jesse's Website -->
 # Welcome!
-This is the main page to Jesse's Website
-Check out the various pages I have to offer down below
+Check out my various pages I have to offer down below
+
+### [Blog](https://jml.sites.github.io/main/blog)
 
 ### [Résumé](https://jml.sites.github.io/main/resume)
 
-### [About & Blog](https://jml-sites.github.io/main/about)
+### [About](https://jml-sites.github.io/main/about)
 
 ### [Contact](https://jml-sites.github.io/main/contact)
+
+### [YouTube Channel](https://youtube.com/@jessesmemoirs)
