@@ -38,7 +38,7 @@ After a year, we moved to a new piece of property, where we built a new house fr
 
 ![Small system](assets/images/system.jpg)
 
-### Plumbing a new water system for a tiny home
+### Plumbing a new water system for a work-in-progress tiny home
 ![Jesse plumbing](assets/images/plumbing.jpg)
 
 ![Completed system](assets/images/pipes.jpg)
@@ -47,19 +47,8 @@ After we settled in, I began to work for people by doing various things for them
 
 ## Moving back
 
-After staying in Hawai'i for two and a half years, me and my family have moved back to Ohio. Now that I am 17 and I am back on the mainland with my bus, I will begin work on converting the bus. Then after I graduate, I'll begin my adventure!
+After staying in Hawai'i for two and a half years, me and my family have moved back to Ohio.
 
+**Check out my [blog](https://jml-sites.github.io/main/blog) to read more about current life events**
 
-
-
-**[Contacts](https://jml-sites.github.io/service/contact)**
-
-
-
-
-
-
-
->Do not use/copy any of my photos on this site.
-
-**Navigate back to [Main Site](https://jml-sites.github.io/main/)?**
+**[Back](https://jml-sites.github.io/main/)**
