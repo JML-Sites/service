@@ -3,9 +3,9 @@
 ---
 Check out my various pages I have to offer down below
 
-### [Blog](https://jml.sites.github.io/main/blog)
+### [Blog](https://jml-sites.github.io/main/blog)
 
-### [Résumé](https://jml.sites.github.io/main/resume)
+### [Résumé](https://jml-sites.github.io/main/resume)
 
 ### [About](https://jml-sites.github.io/main/about)
 
