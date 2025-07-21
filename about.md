@@ -1,12 +1,12 @@
 # About me
 
-I was born at a very young age in the middle of Ohio. I lived in a house just outside of a small town with my younger sister and was homeschooled by my mother and father.  My mother took me on walks in a nearby woods where I gained a deep appreciation of nature, and my father taught me how to properly operate and maintain the riding lawn mower. I was also taught the basics of money and capitalism, and my parents helped me start a lemonade stand at a nearby farmer's market.
+I was born at a very young age in the middle of Ohio. I lived in a house just outside of a small town with my younger sister and was homeschooled by my mother and father.  My mother took me on walks in a nearby woods where I gained a deep appreciation of nature, and my father taught me how to properly operate and maintain the family's riding lawn mower. I was also taught the basics of economy and budgeting, and my parents helped me start a lemonade stand at a nearby farmer's market.
 
-We lived there for around a decade, then we moved to a larger house in the same general area. My younger brother was born, and I learned early on to be responsible for him. A elder neighbor taught me how to trap and I got my first hunter's license and fur taker permit.
+We lived there for around a decade, then we moved to a larger house in the same general area. My younger brother was born, and I learned early how to be a responsible older brother early in life. An elder neighbor taught me how to trap and I got my first hunter's license and fur taker permit.
 
 ## Volunteering at the Junior Naturalist Club
 
-I volunteered at several communtity events at the local fire station, and helped the elderly with yard work. Around a year later, I joined the [Junior Naturalist Club](https://www.crawfordparkdistrict.org/junior-naturalist.html) at the local park district. I learned many new skills, such as public presentation and animal handling, and met many new people.
+I volunteered at several communtity events at the local fire station, and helped our elderly neighbors with yard work. Around a year later, I joined the [Junior Naturalist Club](https://www.crawfordparkdistrict.org/junior-naturalist.html) at the local park district. I learned many new skills, such as public presentation and animal handling, and met many new people.
 
 ![Jesse waiting to showcase tiger salamanders](assets/images/jnc.jpg)
 
@@ -17,13 +17,13 @@ After saving nearly all of my money from the lemonade stand, I purchased a 40 fo
 ![Jesse standing beside a school bus](assets/images/bus.jpg)
 
 
-I got my first job working at a trap shooting range, where I would reload the traps with clay pigeons and keep score. After a few months, I got a second job working at a game bird hatchery. I would walk around in large pheasant pens and collect eggs to wash and hatch them. 
+I got my first job working at a trap shooting range, where I would reload the traps with clay pigeons and keep the customers' score. After a few months, I got a second job working at a game bird hatchery. I would collect eggs in large pheasant pens and wash them to put them in incubators.
 
 ## Moving to Hawai'i
 
 ![Sunrise](assets/images/ocean.jpg)
 
-After a few years, me and my family moved to the big island of Hawai'i! It was a massive transition, getting used to the enviroment and the people, but I learned a wide range of useful skills. We lived in an offgrid house, with our basic neccessities met, where we work-traded by maintaining around 80 acres of land. The rainforest climate offered many new challenges, stable 60-70 degrees and around 300" of rainfall a year accelerated the growth of weeds and grasses. My father has a CDL and was trained in various heavy machines, and he taught me how to operate a Cat skidsteer with a brush hog and how to fix it. I also received many, many hours of experience using multiple types of weedtrimmers. I used everything, from battery powered ones to crazy four-cycle engines with blades.
+After a few years, me and my family moved to the big island of Hawai'i! It was a massive transition, getting used to the enviroment and the people, but I learned a wide range of useful skills. We lived in an off-grid house, with our basic neccessities met, where we work-traded by maintaining around 80 acres of land. The rainforest climate offered many new challenges, stable 60-70 degrees and around 300" of rainfall a year accelerated the growth of weeds and grasses. My father has a CDL and was trained in various heavy machines, and he taught me how to operate a Cat skidsteer with a brush hog and how to maintain it. I also received many, many hours of experience using multiple types of weedtrimmers. I used every kind of weed-wackers, from battery powered ones to crazy four-cycle engines with blades.
 
 ### Removing rust off a steel plate with a grinder
 
@@ -62,4 +62,4 @@ After staying in Hawai'i for two and a half years, me and my family have moved b
 
 >Do not use/copy any of my photos on this site.
 
-**Navigate back to [Main Site](https://jml-sites.github.io/service/)?**
+**Navigate back to [Main Site](https://jml-sites.github.io/main/)?**
